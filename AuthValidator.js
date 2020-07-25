@@ -40,10 +40,3 @@ class ValidationError extends Error {
     }
 }
   
-
-
-
-
-// let user = new AuthValidator();
-
-// user.validateEmail("sasasasasasasasasas");
